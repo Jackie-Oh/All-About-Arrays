@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# ALL ABOUT ARRAYS
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Java code that uses and manipulate both 1-D and 2-D arrays to solve different problems. 
 
 ## Repositories
 
